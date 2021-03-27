@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "next",
+    "dev": "node server.js",
     "build": "next build",
     "start": "next start"
   },
@@ -14,6 +14,7 @@
     "@apollo/react-hooks": "^3.1.5",
     "@apollo/react-ssr": "^3.1.5",
     "apollo-boost": "^0.4.7",
+    "express": "^4.17.1",
     "graphql": "^15.0.0",
     "next": "^10.0.9",
     "next-apollo": "^3.1.10",

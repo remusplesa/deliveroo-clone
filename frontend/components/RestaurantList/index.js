@@ -42,7 +42,7 @@ function RestaurantList(props) {
               <Card style={{ margin: "0 0.5rem 20px 0.5rem" }}>
                 <CardImg
                   top={true}
-                  style={{ height: 250 }}
+                  style={{ height: 250,  objectFit: "cover" }}
                   src={`${process.env.NEXT_PUBLIC_API_URL}${res.image[0].url}`}
                 />
                 <CardBody>

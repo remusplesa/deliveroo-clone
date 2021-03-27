@@ -5,7 +5,7 @@
 
 ✅ Setup \
 ✅ Restaurants \
-⬛ Dishes \
+✅ Dishes \
 ⬛ Authentication \
 ⬛ Shopping Cart \
 ⬛ Order and Checkout \
