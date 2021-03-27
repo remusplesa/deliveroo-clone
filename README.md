@@ -4,7 +4,7 @@
 ### Todo:
 
 ✅ Setup \
-⬛ Restaurants \
+✅ Restaurants \
 ⬛ Dishes \
 ⬛ Authentication \
 ⬛ Shopping Cart \
