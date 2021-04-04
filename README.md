@@ -1,5 +1,5 @@
 ## Deliveroo clone with Next.js, GraphQL, Strapi and Stripe
-
+❌ project on hold
 -------
 ### Todo:
 
